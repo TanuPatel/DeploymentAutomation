@@ -1,0 +1,7 @@
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\bin\Deployment\SQLTestProject.dacpac
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\bin\Deployment\SQLTestProject.dll
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\SQLTestProject.dll
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\Model.xml
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\refactor.xml
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\postdeploy.sql
+c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\predeploy.sql

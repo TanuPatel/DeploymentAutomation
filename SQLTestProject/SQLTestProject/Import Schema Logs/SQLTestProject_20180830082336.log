@@ -1,0 +1,77 @@
+8/30/2018 1:53:36 PM	This log contains information about the import schema operation into project 'SQLTestProject' on computer 'L-NDECSGYRF2' by user 'Ftarann'.
+8/30/2018 1:53:36 PM	Import of database schema has started.
+8/30/2018 1:53:42 PM	Gathering database options
+8/30/2018 1:53:42 PM	Gathering users
+8/30/2018 1:53:42 PM	Gathering roles
+8/30/2018 1:53:42 PM	Gathering application roles
+8/30/2018 1:53:42 PM	Gathering role memberships
+8/30/2018 1:53:42 PM	Gathering filegroups
+8/30/2018 1:53:42 PM	Gathering full-text catalogs
+8/30/2018 1:53:42 PM	Gathering assemblies
+8/30/2018 1:53:42 PM	Gathering certificates
+8/30/2018 1:53:42 PM	Gathering asymmetric keys
+8/30/2018 1:53:42 PM	Gathering symmetric keys
+8/30/2018 1:53:42 PM	Gathering encrypted symmetric keys
+8/30/2018 1:53:42 PM	Gathering schemas
+8/30/2018 1:53:43 PM	Gathering XML schema collections
+8/30/2018 1:53:43 PM	Gathering user-defined data types
+8/30/2018 1:53:43 PM	Gathering user-defined types
+8/30/2018 1:53:43 PM	Gathering table types
+8/30/2018 1:53:43 PM	Gathering unique keys for table types
+8/30/2018 1:53:43 PM	Gathering primary keys for table types
+8/30/2018 1:53:43 PM	Gathering indexes for table types
+8/30/2018 1:53:43 PM	Gathering check constraints for table types
+8/30/2018 1:53:43 PM	Gathering default constraints for table types
+8/30/2018 1:53:43 PM	Gathering partition functions
+8/30/2018 1:53:43 PM	Gathering partition schemes
+8/30/2018 1:53:43 PM	Gathering functions
+8/30/2018 1:53:43 PM	Gathering encrypted functions
+8/30/2018 1:53:43 PM	Gathering aggregates
+8/30/2018 1:53:43 PM	Gathering procedures
+8/30/2018 1:53:43 PM	Gathering encrypted procedures
+8/30/2018 1:53:43 PM	Gathering tables
+8/30/2018 1:53:43 PM	Gathering primary keys
+8/30/2018 1:53:43 PM	Gathering unique constraints
+8/30/2018 1:53:43 PM	Gathering foreign keys
+8/30/2018 1:53:43 PM	Gathering default constraints
+8/30/2018 1:53:43 PM	Gathering check constraints
+8/30/2018 1:53:43 PM	Gathering views
+8/30/2018 1:53:43 PM	Gathering encrypted views
+8/30/2018 1:53:43 PM	Gathering indexes
+8/30/2018 1:53:43 PM	Gathering statistics
+8/30/2018 1:53:43 PM	Gathering full-text index stoplists
+8/30/2018 1:53:43 PM	Gathering search property lists
+8/30/2018 1:53:43 PM	Gathering search properties
+8/30/2018 1:53:43 PM	Gathering full-text indexes
+8/30/2018 1:53:43 PM	Gathering column store indexes
+8/30/2018 1:53:43 PM	Gathering spatial indexes
+8/30/2018 1:53:43 PM	Gathering XML indexes
+8/30/2018 1:53:43 PM	Gathering Selective XML indexes
+8/30/2018 1:53:43 PM	Gathering encrypted triggers
+8/30/2018 1:53:43 PM	Gathering triggers
+8/30/2018 1:53:43 PM	Gathering encrypted and clr ddl triggers
+8/30/2018 1:53:43 PM	Gathering ddl triggers
+8/30/2018 1:53:43 PM	Gathering synonyms
+8/30/2018 1:53:43 PM	Gathering defaults
+8/30/2018 1:53:43 PM	Gathering data constraint uddt bindings
+8/30/2018 1:53:43 PM	Gathering rules
+8/30/2018 1:53:43 PM	Gathering data constraint uddt bindings
+8/30/2018 1:53:43 PM	Gathering message types
+8/30/2018 1:53:43 PM	Gathering queues
+8/30/2018 1:53:43 PM	Gathering contracts
+8/30/2018 1:53:43 PM	Gathering services
+8/30/2018 1:53:43 PM	Gathering event notifications
+8/30/2018 1:53:43 PM	Gathering remote service bindings
+8/30/2018 1:53:43 PM	Gathering broker priorities
+8/30/2018 1:53:43 PM	Gathering signatures
+8/30/2018 1:53:43 PM	Gathering data compression options
+8/30/2018 1:53:43 PM	Gathering sequence types
+8/30/2018 1:53:43 PM	Gathering extended properties
+8/30/2018 1:53:43 PM	Gathering credentials
+8/30/2018 1:53:43 PM	Gathering logins
+8/30/2018 1:53:43 PM	Gathering server audits
+8/30/2018 1:53:44 PM	Scanning project for duplicate elements
+8/30/2018 1:53:44 PM	Finished duplicate element processing
+8/30/2018 1:53:44 PM	Finished importing database.
+8/30/2018 1:53:44 PM	A summary of the import was saved to the following location: c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\Import Schema Logs\SQLTestProject_20180830082336.log
+8/30/2018 1:53:44 PM	Click Finish to continue...

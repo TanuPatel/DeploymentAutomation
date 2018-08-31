@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[DimValueSet] (
+    [DimValueSetSK]     INT           IDENTITY (1, 1) NOT NULL,
+    [ReportPeriodMin]   DATETIME2 (7) NOT NULL,
+    [ReportPeriodMax]   DATETIME2 (7) NOT NULL,
+    [CMSID]             VARCHAR (1)   NOT NULL,
+    [NQFNumber]         VARCHAR (1)   NOT NULL,
+    [ValueSetName]      VARCHAR (1)   NOT NULL,
+    [ValueSetOID]       VARCHAR (1)   NOT NULL,
+    [QDMCategory]       VARCHAR (1)   NOT NULL,
+    [DefinitionVersion] VARCHAR (1)   NOT NULL,
+    [ExpansionVersion]  VARCHAR (1)   NOT NULL,
+    [ClinicalFocus]     VARCHAR (1)   NOT NULL,
+    [DataElementScope]  VARCHAR (1)   NOT NULL,
+    [InclusionCriteria] VARCHAR (1)   NOT NULL,
+    [ExclusionCriteria] VARCHAR (1)   NOT NULL,
+    [Code]              VARCHAR (1)   NOT NULL,
+    [Description]       VARCHAR (1)   NOT NULL,
+    [CodeSystem]        VARCHAR (1)   NOT NULL,
+    [CodeSystemOID]     VARCHAR (1)   NOT NULL,
+    [CodeSystemVersion] VARCHAR (1)   NOT NULL,
+    [ExpansionID]       VARCHAR (1)   NOT NULL,
+    [CurrentRow]        AS            (case when [ReportPeriodMax]='9999-12-31' then (1) else (0) end),
+    CONSTRAINT [PK_DimValueSet] PRIMARY KEY CLUSTERED ([DimValueSetSK] ASC)
+);
+
