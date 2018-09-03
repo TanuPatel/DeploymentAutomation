@@ -5,3 +5,10 @@ c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestPro
 c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\refactor.xml
 c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\postdeploy.sql
 c:\users\ftarann\documents\visual studio 2015\Projects\SQLTestProject\SQLTestProject\obj\Deployment\predeploy.sql
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\bin\Deployment\SQLTestProject.dacpac
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\bin\Deployment\SQLTestProject.dll
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\obj\Deployment\Model.xml
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\obj\Deployment\refactor.xml
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\obj\Deployment\postdeploy.sql
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\obj\Deployment\predeploy.sql
+C:\Users\Ftarann\Documents\DeploymentAutomation\SQLTestProject\SQLTestProject\obj\Deployment\SQLTestProject.dll

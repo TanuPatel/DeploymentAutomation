@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="SQLTestProject.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\FTARANN\DOCUMENTS\VISUAL STUDIO 2015\PROJECTS\SQLTESTPROJECT\SQLTESTPROJECT\OBJ\DEPLOYMENT\SQLTESTPROJECT.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\FTARANN\DOCUMENTS\DEPLOYMENTAUTOMATION\SQLTESTPROJECT\SQLTESTPROJECT\OBJ\DEPLOYMENT\SQLTESTPROJECT.DLL" />
 			<Metadata Name="AssemblyName" Value="SQLTestProject" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
